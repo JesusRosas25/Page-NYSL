@@ -1,0 +1,140 @@
+body{
+    font-family:'Handlee', cursive;
+    background-image: url(images/cesped-sintetico-futbol-D_NQ_NP_820171-MLA28860716649_122018-F.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  
+    
+    }
+header{
+    background-image: url(images/maly-sportowiec-pilka-nozna-768x340.jpg);
+    height:450px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+     }
+img{   
+    top: 5px;
+    left: 10px;
+    border-radius: 50%;
+    position: absolute;
+    width: 90px;
+    
+}
+h1{
+    color: white;
+    background-color: black;
+    margin: 0;
+    text-align:center;
+    }
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    color:white;
+    background-color: red;
+    text-align: center;
+        
+    }
+
+h4{
+    color: white;
+    margin-top: 0px;
+    text-align: center;
+    background-color: black;
+    background-size: auto;
+    }
+ p{
+    margin: 10px;
+    text-align: center;
+    background-color: white
+    }
+
+nav {
+    
+        display: inline;
+        top: 10px;
+        margin: 0 10px 0 0;
+        margin-left: 55vw;
+     
+}
+   #button a {
+        color: black;
+        padding: 2px 7px 2px 7px;
+        text-decoration: none;
+        -webkit-box-shadow: 2px 5px 4px 2px rgba(0,0,0,0.75);
+        -moz-box-shadow: 2px 5px 4px 2px rgba(0,0,0,0.75);
+        box-shadow: 2px 5px 4px 2px rgba(0,0,0,0.75);
+        background-color:dodgerblue;
+        }
+table{
+            align-items: center;
+            }
+
+table#september td, table#octuber td,table#september th, table#octuber th{
+        text-align:justify;
+        width: 300px;
+        background-color: white;
+
+        }
+
+table#september,table#octuber,table#information {
+
+          border-spacing:10px;
+          margin-top:30px;         
+            
+          }
+ td{
+          background-color: white;
+          border: 1px black ;
+            }
+ table#information{
+          text-align: justify;
+          background-color: white;
+          width: -webkit-fill-available;
+          }
+ h3{
+          background-color: red;
+          text-align: center;
+          margin-top: 370px;
+          margin-bottom: 0px;
+
+              }
+
+ table#location{
+          margin-top: 30px;
+          width: -webkit-fill-available;
+          text-align: justify;
+          background-color: white;
+          }
+
+  div ul{
+            text-align:justify;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            padding-left: 50px;
+            padding-right: 50px;
+            margin-top: 0;
+
+            }
+      
+   li,ul,ol{ 
+            background-color: lightyellow;
+            } 
+form{
+    background-color: white;
+    text-align: center;
+    border:hidden;
+    
+}
+.permission{
+    background-color: white;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+        
